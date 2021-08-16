@@ -1,0 +1,12 @@
+/debug/
+/release
+/user*
+/.qmake.stash
+/Makefile
+/Makefile.Debug
+/Makefile.Release
+/object_script.Locator.Debug
+/object_script.Locator.Release
+/*.pro.user
+/*.pro.user.*
+/*.pro.user.**
